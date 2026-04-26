@@ -69,9 +69,9 @@ I'm looking for an opportunity where I can contribute to **data-driven decision-
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AgustinaEtchebar&show_icons=true&theme=default&hide_border=true" height="150"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinaEtchebar&layout=compact&theme=default&hide_border=true" height="150"/>
 </p>
 
 ---
