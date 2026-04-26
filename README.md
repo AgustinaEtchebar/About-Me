@@ -44,7 +44,7 @@ I'm looking for an opportunity where I can contribute to **data-driven decision-
 
 | Project | Description |
 |---|---|
-| *[AgustinaEtchebar/SQL-Advanced](https://github.com/AgustinaEtchebar/SQL-Advanced)* | *DQL Advanced* |
+| *[AgustinaEtchebar/SQL-Advanced](https://github.com/AgustinaEtchebar/SQL-Advanced)* | *SQL Advanced* |
 
 ---
 
