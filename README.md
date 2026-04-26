@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/Foto CV Oct 25.JPG" width="150" style="border-radius: 50%;" alt="Agustina" />
-</p>
+
 <h1 align="center">Hi, I'm Agustina 👋</h1>
 
 <p align="center">
@@ -46,7 +44,7 @@ I'm looking for an opportunity where I can contribute to **data-driven decision-
 
 | Project | Description |
 |---|---|
-| *[AgustinaEtchebar/SQL-Advanced](https://github.com/AgustinaEtchebar/SQL-Advanced)* | *Stay tuned!* |
+| *[AgustinaEtchebar/SQL-Advanced](https://github.com/AgustinaEtchebar/SQL-Advanced)* | *DQL Advanced* |
 
 ---
 
