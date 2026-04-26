@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/foto.jpg" width="150" style="border-radius: 50%;" alt="Agustina" />
+  <img src="assets/Foto CV Oct 25.JPG" width="150" style="border-radius: 50%;" alt="Agustina" />
 </p>
 <h1 align="center">Hi, I'm Agustina 👋</h1>
 
